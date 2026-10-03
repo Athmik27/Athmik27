@@ -1,5 +1,5 @@
 # ABOUT ME:
-Hi, I'm Athmik, a B.E. Computer Science student and aspiring Software Developer with a strong interest in Python and problem-solving.<br><br>I enjoy building practical projects, exploring new technologies, and improving my programming skills through hands-on development.<br><br>I'm currently strengthening my skills in Data Structures & Algorithms, Machine Learning, and software development, while building projects to apply what I learn.
+Hi, I'm Athmik, a B.E. Computer Science student and aspiring Software Developer with a strong interest in Python and problem-solving.<br><br>I'm currently strengthening my skills in Data Structures & Algorithms, Machine Learning, and software development, while building projects to apply what I learn.
 
 
 ##  Socials:
