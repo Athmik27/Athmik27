@@ -1,5 +1,5 @@
 
-### About Me<br><br>I’m a B.E. Computer Science student passionate about **Python, software development, and problem-solving**. I enjoy turning ideas into simple, practical applications and continuously learning new technologies.<br><br> Currently Working On<br><br>I’m currently building my skills in **Python, Data Science, Flask, Git, and Machine Learning**, while working on projects that help me strengthen my programming and development skills.<br><br> I’ve Worked On<br><br>* Python programming and **Object-Oriented Programming**<br>* **NumPy, Pandas, Matplotlib, Seaborn & Scikit-learn**<br>* Data analysis and visualization projects<br>* **Flask** web applications<br>* DSA and problem-solving<br>* Git & GitHub projects<br>* Personal projects focused on solving real-world problems<br><br>
+### About Me<br><br>I’m a B.E. Computer Science student passionate about **Python, software development, and problem-solving**. I enjoy turning ideas into simple, practical applications and continuously learning new technologies.<br><br> 
 
 
 ## 🌐 Socials:
