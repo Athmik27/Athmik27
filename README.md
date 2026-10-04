@@ -1,4 +1,4 @@
-#  About Me:
+#  Hey There I'm ATHMIK A:
 I am a B.E. Computer Science Engineering student with a strong interest in software development and problem-solving. I have experience working with Python, Data Structures and Algorithms, and data analysis libraries such as NumPy, Pandas, Matplotlib.<br><br>I am currently focused on developing strong technical fundamentals and preparing for opportunities in software development.
 
 
