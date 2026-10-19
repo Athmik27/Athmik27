@@ -1,4 +1,4 @@
-#  HEY !! I'M ATHMIK 
+#  HEY I'M ATHMIK 
 I’m a student and aspiring developer passionate about technology, coding, and problem-solving. I’m continuously learning new skills, exploring different technologies, and building projects to improve my development skills and grow as a developer. 
 
 
