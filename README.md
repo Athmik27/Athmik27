@@ -1,6 +1,5 @@
-#  HEY I'M ATHMIK 
-
-I’m a student and aspiring developer with a strong passion for **Data Analysis, Data Visualization, and Data-Driven Problem Solving**. I have developed skills in Python and its essential data analysis libraries, including **NumPy, Pandas, Matplotlib, and Seaborn**. I’m interested in data cleaning, manipulation, exploratory data analysis (EDA), identifying trends and patterns, and transforming raw data into meaningful insights. I enjoy creating insightful visualizations, interpreting data to support better decision-making, and uncovering valuable information from datasets. I’m continuously strengthening my analytical thinking, technical skills, and programming knowledge through hands-on projects and continuous learning.
+#  About Me:
+I’m Athmik a student and aspiring developer passionate about **Data Analysis and Data Visualization**.<br> Skilled in Python, NumPy, Pandas, Matplotlib, and Seaborn, I enjoy exploring datasets, uncovering trends, and transforming raw data into meaningful insights.<br>  Always learning, analyzing, and building to turn data into smarter decisions!
 
 
 ##  Socials:
@@ -14,5 +13,13 @@ I’m a student and aspiring developer with a strong passion for **Data Analysis
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Athmik27&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+###  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Athmik27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://komarev.com/ghpvc/?username=Athmik27&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
