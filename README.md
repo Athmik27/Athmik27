@@ -13,7 +13,7 @@ I’m Athmik a student and aspiring developer passionate about **Data Analysis a
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Athmik27&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-###  Random Dev Quote
+###  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
