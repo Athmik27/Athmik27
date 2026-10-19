@@ -17,7 +17,3 @@ I’m Athmik a student and aspiring developer passionate about **Data Analysis a
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
----
-[![](https://komarev.com/ghpvc/?username=Athmik27&icon=0&color=6)](https://visitcount.itsvg.in)
-
-
