@@ -1,5 +1,5 @@
 #  About Me:
-I’m Athmik a student and aspiring developer passionate about **Data Analysis and Data Visualization**.<br> Skilled in Python, NumPy, Pandas, Matplotlib, and Seaborn, I enjoy exploring datasets, uncovering trends, and transforming raw data into meaningful insights.<br>  Always learning, analyzing, and building to turn data into smarter decisions!
+I’m Athmik a student and aspiring developer passionate about **Data Analysis and Data Visualization**.Skilled in Python, NumPy, Pandas, Matplotlib, and Seaborn, I enjoy exploring datasets, uncovering trends, and transforming raw data into meaningful insights.<br>  Always learning, analyzing, and building to turn data into smarter decisions!
 
 
 ##  Socials:
@@ -16,10 +16,8 @@ I’m Athmik a student and aspiring developer passionate about **Data Analysis a
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Athmik27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Athmik27&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
