@@ -1,5 +1,6 @@
 #  HEY I'M ATHMIK 
-I’m a student and aspiring developer passionate about technology, coding, and problem-solving. I’m continuously learning new skills, exploring different technologies, and building projects to improve my development skills and grow as a developer. 
+
+I’m a student and aspiring developer with a strong passion for **Data Analysis, Data Visualization, and Data-Driven Problem Solving**. I have developed skills in Python and its essential data analysis libraries, including **NumPy, Pandas, Matplotlib, and Seaborn**. I’m interested in data cleaning, manipulation, exploratory data analysis (EDA), identifying trends and patterns, and transforming raw data into meaningful insights. I enjoy creating insightful visualizations, interpreting data to support better decision-making, and uncovering valuable information from datasets. I’m continuously strengthening my analytical thinking, technical skills, and programming knowledge through hands-on projects and continuous learning.
 
 
 ##  Socials:
