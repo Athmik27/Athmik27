@@ -1,4 +1,4 @@
-#  I'M ATHMIK A:
+#  I'M ATHMIK 
 I’m Athmik a student and aspiring developer passionate about **Data Analysis and Data Visualization**.Skilled in Python, NumPy, Pandas, Matplotlib, and Seaborn, I enjoy exploring datasets, uncovering trends, and transforming raw data into meaningful insights.<br>  Always learning, analyzing, and building to turn data into smarter decisions!
 
 
