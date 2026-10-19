@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm ATHMIK A</h1>
+<h1 align="center">Hi I'm ATHMIK </h1>
 <h3 align="center">I am ATHMIK a B.E. Computer Science Engineering student with a strong interest in software development and problem-solving.</h3>
 
 - I’m currently working on **Cancer Type Prediction From Medical Imaging.**
