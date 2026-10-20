@@ -1,6 +1,8 @@
-#                                                  HEY !!
-I’m Athmik a student and aspiring developer passionate about **Data Analysis and Data Visualization**.Skilled in Python, NumPy, Pandas, Matplotlib, and Seaborn, I enjoy exploring datasets, uncovering trends, and transforming raw data into meaningful insights.<br>  Always learning, analyzing, and building to turn data into smarter decisions!
+ Hey, I'm Athmik!
 
+ Aspiring Data Analyst | Python Developer | Data Visualization Enthusiast
+
+I’m a Computer Science Engineering student passionate about Data Analysis, Data Visualization, and Python programming. I enjoy exploring datasets, discovering patterns, and transforming raw data into meaningful insights.
 
 ##  Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:athmik27@gmail.com) 
