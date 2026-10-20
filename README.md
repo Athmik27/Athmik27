@@ -1,4 +1,4 @@
- Hey, I'm Athmik!
+ Hey, I'm ATHMIK A !
 
  Aspiring Data Analyst | Python Developer | Data Visualization Enthusiast
 
