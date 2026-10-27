@@ -1,6 +1,6 @@
  Hey, I'm ATHMIK 
 
- Aspiring Data Analyst | Python Developer | Data Visualization Enthusiast
+ Data Analyst | Python Developer | Data Visualization 
 
 I’m a Computer Science Engineering student passionate about Data Analysis, Data Visualization, and Python programming. I enjoy exploring datasets, discovering patterns, and transforming raw data into meaningful insights.
 
