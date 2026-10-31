@@ -17,9 +17,9 @@
 
 I'm a **Computer Science Engineering student** passionate about **Data Analysis, Data Visualization, and Python programming**. I enjoy exploring datasets, discovering patterns, and transforming raw data into meaningful insights.
 
--  Currently working on: *data analysis & visualization projects*
--  Currently learning: *Large Language Models (LLMs) and training machine learning models*
--  Interested in: *data analysis, exploratory data analysis (EDA), and data storytelling*
+-  Currently working on: *Data Analysis & Visualization Projects*
+-  Currently learning: *Large Language Models (LLMs) and Training Machine Learning Models*
+-  Interested in: *Data Analysis, Exploratory Data Analysis (EDA), and Data Storytelling*
 -  Reach me at: **athmik27@gmail.com**
 
 ---
