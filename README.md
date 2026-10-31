@@ -1,9 +1,9 @@
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Athmik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Visualization&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ATHMIK%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Visualization&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Athmik+%F0%9F%91%8B;CSE+Student+%7C+Python+Developer;Turning+raw+data+into+meaningful+insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ATHMIK+A+%F0%9F%91%8B;CSE+Student+%7C+Python+Developer;Turning+raw+data+into+meaningful+insights)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Athmik27&label=Profile+Views&color=2c5364&style=flat-square)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athmik27@gmail.com)
@@ -17,9 +17,10 @@
 
 I'm a **Computer Science Engineering student** passionate about **Data Analysis, Data Visualization, and Python programming**. I enjoy exploring datasets, discovering patterns, and transforming raw data into meaningful insights.
 
--  Currently working on: *data analysis & visualization projects*
--  Currently learning: *advanced Pandas, SQL, and dashboarding tools*
-- 📫 Reach me at: **athmik27@gmail.com**
+-  Currently working on: *Data Analysis & Visualization Projects*
+-  Currently learning: *Large Language Models (LLMs) and training Machine Learning Models*
+-  Interested in: *Data Analysis, Exploratory Data Analysis (EDA), and Data Storytelling*
+-  Reach me at: **athmik27@gmail.com**
 
 ---
 
@@ -27,28 +28,24 @@ I'm a **Computer Science Engineering student** passionate about **Data Analysis,
 
 <div align="center">
 
-**Languages & Web**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="180"><b>Languages & Web</b></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data & Visualization</b></td>
+    <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></td>
+  </tr>
+</table>
 
 </div>
 
@@ -56,13 +53,27 @@ I'm a **Computer Science Engineering student** passionate about **Data Analysis,
 
 ##  Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Project Name 1**](https://github.com/Athmik27/REPO-NAME) | One-line summary of what it does and the insight it found | Python, Pandas, Matplotlib |
-| [**Project Name 2**](https://github.com/Athmik27/REPO-NAME) | One-line summary of what it does and the insight it found | Python, MySQL |
-| [**Project Name 3**](https://github.com/Athmik27/REPO-NAME) | One-line summary of what it does and the insight it found | Python, NumPy |
+<div align="center">
 
->  Pin your 3–6 best repositories on your profile too, so they show up right below this README.
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="left">Tech</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Athmik27/STUDENTS_MARKS_PREDICTION"><b>Students Marks Prediction</b></a></td>
+    <td>Beginner-friendly machine learning project that predicts student exam marks from study hours using Linear Regression, with data visualization of the results.</td>
+    <td>Python, Pandas, Matplotlib, Scikit-learn</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Athmik27/PERSONAL_EXPENSE_TRACKER"><b>Personal Expense Tracker</b></a></td>
+    <td>Desktop app to manage income and expenses. Add, edit, delete, search, and filter transactions, view a dashboard with category charts, generate monthly reports, and export to CSV.</td>
+    <td>Python, Tkinter, SQLite, tkcalendar, Matplotlib</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
