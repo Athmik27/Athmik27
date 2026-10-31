@@ -1,12 +1,12 @@
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ATHMIK%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Visualization&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2d5f8a,100:4a8db7&height=200&section=header&text=ATHMIK%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Visualization&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ATHMIK+A+%F0%9F%91%8B;CSE+Student+%7C+Python+Developer;Turning+raw+data+into+meaningful+insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7CC4E8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ATHMIK+A+%F0%9F%91%8B;CSE+Student+%7C+Python+Developer;Turning+raw+data+into+meaningful+insights)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Athmik27&label=Profile+Views&color=2c5364&style=flat-square)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athmik27@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Athmik27&label=Profile+Views&color=2d5f8a&style=flat-square)
+[![Email](https://img.shields.io/badge/Email-2D5F8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athmik27@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Athmik27)
 
 </div>
@@ -17,9 +17,9 @@
 
 I'm a **Computer Science Engineering student** passionate about **Data Analysis, Data Visualization, and Python programming**. I enjoy exploring datasets, discovering patterns, and transforming raw data into meaningful insights.
 
--  Currently working on: *Data Analysis & Visualization Projects*
--  Currently learning: *Large Language Models (LLMs) and training Machine Learning Models*
--  Interested in: *Data Analysis, Exploratory Data Analysis (EDA), and Data Storytelling*
+-  Currently working on: *data analysis & visualization projects*
+-  Currently learning: *Large Language Models (LLMs) and training machine learning models*
+-  Interested in: *data analysis, exploratory data analysis (EDA), and data storytelling*
 -  Reach me at: **athmik27@gmail.com**
 
 ---
@@ -108,8 +108,8 @@ I'm always open to collaborating on data projects, learning opportunities, and i
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-athmik27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athmik27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-athmik27%40gmail.com-2D5F8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athmik27@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a8db7,50:2d5f8a,100:1e3a5f&height=120&section=footer" width="100%" alt="Footer"/>
