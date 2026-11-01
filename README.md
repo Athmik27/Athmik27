@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7CC4E8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ATHMIK+A;CSE+Student+%7C+Python+Developer;Turning+raw+data+into+meaningful+insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7CC4E8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ATHMIK+A;CSE+Student+%7C+Python+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,12 +11,11 @@
 
 ##  About Me
 
-I'm a **Computer Science Engineering student** passionate about **Data Analysis and Python programming**. I enjoy exploring datasets, discovering patterns, and transforming raw data into meaningful insights.
-
--  Currently working on: *Data Analysis Projects*
+I'm a **Computer Science Engineering student** passionate about **Data Analysis and Python programming**. 
+-  Currently working on: *Machine Learning Projects*
 -  Currently learning: *Large Language Models (LLMs) and Training Machine Learning Models*
 -  Interested in: *Data Analysis, Exploratory Data Analysis (EDA), and Data Storytelling*
--  Reach me at: **athmik27@gmail.com**
+
 
 ---
 
