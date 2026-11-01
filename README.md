@@ -5,22 +5,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7CC4E8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ATHMIK+A;CSE+Student+%7C+Python+Developer;Turning+raw+data+into+meaningful+insights)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Athmik27&label=Profile+Views&color=2d5f8a&style=flat-square)
-[![Email](https://img.shields.io/badge/Email-2D5F8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athmik27@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Athmik27)
-
 </div>
 
 ---
 
 ##  About Me
 
-I'm a **Computer Science Engineering student** passionate about **LLM'S , Data Analysis and Python programming**.
+I'm a **Computer Science Engineering student** passionate about **Data Analysis and Python programming**. I enjoy exploring datasets, discovering patterns, and transforming raw data into meaningful insights.
 
--  Currently working on: *Machine Learning Projects*
+-  Currently working on: *Data Analysis Projects*
 -  Currently learning: *Large Language Models (LLMs) and Training Machine Learning Models*
 -  Interested in: *Data Analysis, Exploratory Data Analysis (EDA), and Data Storytelling*
-
+-  Reach me at: **athmik27@gmail.com**
 
 ---
 
