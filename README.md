@@ -15,7 +15,7 @@
 
 ##  About Me
 
-I'm a **Computer Science Engineering student** passionate about **LLM'S , Data Analysis and Python programming**. I enjoy exploring datasets, discovering patterns, and transforming raw data into meaningful insights.
+I'm a **Computer Science Engineering student** passionate about **LLM'S , Data Analysis and Python programming**.
 
 -  Currently working on: *Machine Learning Projects*
 -  Currently learning: *Large Language Models (LLMs) and Training Machine Learning Models*
