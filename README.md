@@ -1,5 +1,5 @@
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2d5f8a,100:4a8db7&height=200&section=header&text=ATHMIK%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Visualization&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2d5f8a,100:4a8db7&height=200&section=header&text=ATHMIK%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
 
 <div align="center">
 
@@ -15,12 +15,12 @@
 
 ##  About Me
 
-I'm a **Computer Science Engineering student** passionate about **Data Analysis, Data Visualization, and Python programming**. I enjoy exploring datasets, discovering patterns, and transforming raw data into meaningful insights.
+I'm a **Computer Science Engineering student** passionate about **LLM'S , Data Analysis and Python programming**. I enjoy exploring datasets, discovering patterns, and transforming raw data into meaningful insights.
 
--  Currently working on: *Data Analysis & Visualization Projects*
+-  Currently working on: *Machine Learning Projects*
 -  Currently learning: *Large Language Models (LLMs) and Training Machine Learning Models*
 -  Interested in: *Data Analysis, Exploratory Data Analysis (EDA), and Data Storytelling*
--  Reach me at: **athmik27@gmail.com**
+
 
 ---
 
@@ -30,16 +30,16 @@ I'm a **Computer Science Engineering student** passionate about **Data Analysis,
 
 <table>
   <tr>
-    <td align="center" width="180"><b>Languages & Web</b></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+    <td align="center" width="180"><b>Languages</b></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
   </tr>
   <tr>
-    <td align="center"><b>Data & Visualization</b></td>
-    <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/></td>
+    <td align="center"><b>Data & Libraries</b></td>
+    <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/></td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
@@ -63,7 +63,7 @@ I'm a **Computer Science Engineering student** passionate about **Data Analysis,
   </tr>
   <tr>
     <td><a href="https://github.com/Athmik27/STUDENTS_MARKS_PREDICTION"><b>Students Marks Prediction</b></a></td>
-    <td>Beginner-friendly machine learning project that predicts student exam marks from study hours using Linear Regression, with data visualization of the results.</td>
+    <td>Beginner-friendly machine learning project that predicts student exam marks from study hours using Linear Regression.</td>
     <td>Python, Pandas, Matplotlib, Scikit-learn</td>
   </tr>
   <tr>
