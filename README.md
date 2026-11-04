@@ -1,13 +1,4 @@
-<!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2d5f8a,100:4a8db7&height=200&section=header&text=ATHMIK%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7CC4E8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ATHMIK+A;CSE+Student+%7C+Python+Developer)](https://git.io/typing-svg)
-
-</div>
-
----
 
 ##  About Me
 
@@ -44,20 +35,6 @@ I'm a **Computer Science Engineering student** passionate about **Data Analysis 
 </div>
 
 ---
-
-##  GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=Athmik27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Athmik27&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Athmik27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
 ---
 
 ##  Dev Quote
