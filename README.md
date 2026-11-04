@@ -19,33 +19,6 @@ I'm a **Computer Science Engineering student** passionate about **Data Analysis 
 
 ---
 
-##  Tech Stack
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="180"><b>Languages</b></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Data & Libraries</b></td>
-    <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ##  Featured Projects
 
 <div align="center">
@@ -97,14 +70,4 @@ I'm a **Computer Science Engineering student** passionate about **Data Analysis 
 
 ---
 
-##  Let's Connect
 
-I'm always open to collaborating on data projects, learning opportunities, and internships. Feel free to reach out!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-athmik27%40gmail.com-2D5F8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athmik27@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a8db7,50:2d5f8a,100:1e3a5f&height=120&section=footer" width="100%" alt="Footer"/>
