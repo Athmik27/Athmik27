@@ -1,8 +1,8 @@
-##  About Me
 
-I'm a Computer Science Engineering student passionate about Python programming. 
--  Currently working on:  Machine Learning Projects
--  Currently learning:  Large Language Models (LLMs) and Training Machine Learning Models.
+
+I'm a COMPUTER SCIENCE STUDENT passionate about PYTHON PROGRAMMING. 
+-  Currently working on:  MACHINE LEARNING PROJECTS.
+-  Currently learning:  LARGE LANGUAGE MODEL (LLMs) and TRAINING MACHINE LEARNING MODELS.
 ---
 
 ##  Featured Projects
