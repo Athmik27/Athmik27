@@ -1,9 +1,10 @@
 
 
-I'm a COMPUTER SCIENCE STUDENT passionate about PYTHON PROGRAMMING. 
--  Currently working on:  MACHINE LEARNING PROJECTS.
--  Currently learning:  LARGE LANGUAGE MODEL (LLMs) and TRAINING MACHINE LEARNING MODELS.
 ---
+
+
+
+I'm a **Computer Science Engineering student** passionate about **Data Analysis and Python programming**. 
 
 ##  Featured Projects
 
@@ -30,4 +31,8 @@ I'm a COMPUTER SCIENCE STUDENT passionate about PYTHON PROGRAMMING.
 </div>
 
 ---
----
+
+
+
+
+
