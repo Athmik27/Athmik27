@@ -4,7 +4,6 @@
 
 
 
-I'm a **Computer Science Engineering student** passionate about **Data Analysis and Python programming**. 
 
 ##  Featured Projects
 
