@@ -1,6 +1,6 @@
-# ATHMIK A | Portfolio
+# ATHMIK A 
 
-A simple personal portfolio website.
+A simple personal portfolio.
 
 ## Projects
 
